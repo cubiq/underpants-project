@@ -1,4 +1,4 @@
-underpants-project
+The Underpants Project
 ==================
 
-The Underpants Project
+http://lab.cubiq.org/underpants/
